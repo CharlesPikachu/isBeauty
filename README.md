@@ -8,21 +8,19 @@ You can star this repository to keep track of the project if it's helpful for yo
 # Introduction in Chinese
 https://mp.weixin.qq.com/s/5eVFPMiFA8VhYYlTHlNh1A
 
-# Dependencies
-- pytorch==0.4.1
-- torchvision
-- numpy
-- opencv-python
-- scikit-image
-- matplotlib
-- pandas
-- pillow
-- dlib
-- argparse
-
 # Environment
 - Ubuntu 16.04(train) / Windows10(test)
 - python 3.5+(have installed the neccessary dependencies)
+	- pytorch==0.4.1
+	- torchvision
+	- numpy
+	- opencv-python
+	- scikit-image
+	- matplotlib
+	- pandas
+	- pillow
+	- dlib
+	- argparse
 - Graphics: Tian XP(train) / 1050Ti(test)
 
 # Model I used

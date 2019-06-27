@@ -6,8 +6,6 @@ Author:
 微信公众号:
 	Charles的皮卡丘
 '''
-import sys
-sys.path.insert(0, '/home/zcjin/isBeauty/packages')
 import os
 import time
 import torch

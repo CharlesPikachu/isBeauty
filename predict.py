@@ -51,6 +51,7 @@ def predict(image_path, model_path):
 		cv2.destroyAllWindows()
 
 
+'''run'''
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description="Facial beauty predictor.")
 	parser.add_argument('-i', dest='image', help='Image to be predicted.')
